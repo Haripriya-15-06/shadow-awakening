@@ -1,0 +1,1 @@
+Shadow Awakening V1 is prepared for phone-only cloud APK building via GitHub Actions.\n
